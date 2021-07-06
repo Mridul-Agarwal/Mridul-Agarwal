@@ -1,8 +1,4 @@
-- 👋 Hello, Everyone
-- 🌱 I’m currently learning competitive programming and web development
-- 💻 Aspiring Full stack developer
-- 👀 I’m looking for Internship
-- 💬 Ask me about anything, I am happy to help;
+
 
 
 <!---
